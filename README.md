@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0287-find-the-duplicate-number) |
+## String
+|  |
+| ------- |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
+## Stack
+|  |
+| ------- |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
+## Simulation
+|  |
+| ------- |
+| [3561-resulting-string-after-adjacent-removals](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 <!---LeetCode Topics End-->
