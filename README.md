@@ -8,12 +8,14 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
