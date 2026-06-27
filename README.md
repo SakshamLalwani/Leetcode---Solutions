@@ -14,12 +14,14 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1672-richest-customer-wealth) |
+| [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
