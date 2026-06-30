@@ -23,6 +23,7 @@
 | [0041-first-missing-positive](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
 ## Stack
@@ -71,4 +73,8 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
