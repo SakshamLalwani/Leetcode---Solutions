@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -16,6 +17,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0648-replace-words](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0648-replace-words) |
+| [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1672-richest-customer-wealth) |
@@ -99,4 +101,12 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0648-replace-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
