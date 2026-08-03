@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
