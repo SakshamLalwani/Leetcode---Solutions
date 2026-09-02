@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
