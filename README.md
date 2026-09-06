@@ -57,6 +57,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0115-distinct-subsequences) |
 | [0648-replace-words](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0648-replace-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -114,6 +115,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0115-distinct-subsequences) |
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
