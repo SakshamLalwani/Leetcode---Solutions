@@ -20,6 +20,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0485-max-consecutive-ones](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0485-max-consecutive-ones) |
 | [0648-replace-words](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0648-replace-words) |
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0977-squares-of-a-sorted-array) |
