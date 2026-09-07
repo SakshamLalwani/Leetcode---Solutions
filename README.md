@@ -27,6 +27,7 @@
 | [1672-richest-customer-wealth](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3701-compute-alternating-sum](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3561-resulting-string-after-adjacent-removals) |
+| [3701-compute-alternating-sum](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3701-compute-alternating-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
