@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0009-palindrome-number) |
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -25,6 +26,7 @@
 | [0877-stone-game](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1929-concatenation-of-array) |
@@ -42,6 +44,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0648-replace-words](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0648-replace-words) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1512-number-of-good-pairs](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1512-number-of-good-pairs) |
 | [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -94,6 +97,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1512-number-of-good-pairs) |
 ## Matrix
 |  |
 | ------- |
