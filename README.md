@@ -33,6 +33,7 @@
 | [1929-concatenation-of-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3467-transform-array-by-parity](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3467-transform-array-by-parity) |
 | [3701-compute-alternating-sum](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -95,12 +96,14 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0977-squares-of-a-sorted-array](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3467-transform-array-by-parity](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/1512-number-of-good-pairs) |
+| [3467-transform-array-by-parity](https://github.com/SakshamLalwani/Leetcode---Solutions/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
